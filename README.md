@@ -8,7 +8,7 @@
 
 ### 🌎 "Quanto mais eu sei, mais eu sou" 🧠 
 + 📚 I’m currently learning in the Universidade Federal do Rio Grande do Norte
-+ 📍  From RN living in São Fernando
++ 📍  I live in Brazil, Northeast
 + 💻 Jr Front-End developer
 + 🚀 Sharing a little of my Front-end developer journey 
 
