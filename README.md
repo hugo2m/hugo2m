@@ -5,7 +5,7 @@ I am passionate about solving problems and learning. Always open to new challeng
 
 
 ### "Quanto mais eu sei, mais eu sou"
-
+- 🌱I’m currently learning in the Universidade Federal do Rio Grande do Norte
 - From RN living in São Fernando
 - Jr Front-End developer
 - Sharing a little of my front-end joyrney 
