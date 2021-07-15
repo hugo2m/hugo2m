@@ -1,12 +1,12 @@
 # Hey 👋´
-My name is Hugo Maia, I'm from Brazil I'm A Jr Developer, who have been working as an apprentice front-end developer since 2020.
+My name is Hugo Maia, I'm from Brazil 🇧🇷 I'm A Jr Developer, who have been working as an apprentice front-end developer since 2020.
 
 I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 
 ### "Quanto mais eu sei, mais eu sou"
-- 🌱I’m currently learning in the Universidade Federal do Rio Grande do Norte
-- From RN living in São Fernando
+- 📚 I’m currently learning in the Universidade Federal do Rio Grande do Norte
+- 📍 From RN living in São Fernando
 - Jr Front-End developer
 - Sharing a little of my front-end joyrney 
 
